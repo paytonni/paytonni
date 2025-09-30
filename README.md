@@ -17,5 +17,5 @@ Undergraduate Thesis: Machine-Learning-Based Personal Credit Default Prediction
 
 Fault Diagnosis Research: CNN+Transformer for bearing fault classification
 
-AI Forecasting Competitions: Extreme precipitation prediction, MCM/ICM modeling, and more
+AI Forecasting Competitions: Extreme precipitation prediction, MCM/ICM modeling, and more.
 
