@@ -1,4 +1,4 @@
-## Hi there 👋 This is Payton 😄
+## Hi there 👋 This is Payto 😄
 I'm currently learning statistics in Imperial College London. 
 
 🔍 Interests:
