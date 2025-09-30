@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 This is Payton 😄
+I'm currently learning statistics in Imperial College London. 
 
-<!--
-**paytonni/paytonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Interests:
 
-Here are some ideas to get you started:
+Machine Learning for credit risk modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ensemble learning (XGBoost, LightGBM, CatBoost, Stacking)
+
+Deep learning for time series & fault diagnosis (CNN, LSTM, Transformer)
+
+Uncertainty quantification in AI
+
+💡 Selected Projects:
+
+Undergraduate Thesis: Machine-Learning-Based Personal Credit Default Prediction 
+
+Fault Diagnosis Research: CNN+Transformer for bearing fault classification (CASIA internship)
+
+AI Forecasting Competitions: Extreme precipitation prediction, MCM/ICM modeling, and more
+
